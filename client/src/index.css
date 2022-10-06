@@ -1,11 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@300;400;500;600&family=Roboto:wght@400;500;700;900&family=Staatliches&display=swap');
 
-
-/* font-family: 'Open Sans', sans-serif;
-font-family: 'Poppins', sans-serif;
-font-family: 'Roboto', sans-serif;
-font-family: 'Staatliches', cursive; */
 * {
     margin: 0;
     padding: 0;
@@ -58,7 +53,7 @@ h2,
 h3,
 h4,
 h5 {
-    font-weight: 200;
+    font-weight: 500;
 }
 
 h1 {
